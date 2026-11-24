@@ -1,0 +1,6 @@
+{
+  "name": "Husn e Zar",
+  "description": "Luxury black and metallic gold storefront for Husn e Zar skincare cream. 100% natural ingredients. Contact 03233097016.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
